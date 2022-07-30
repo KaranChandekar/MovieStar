@@ -1,4 +1,4 @@
-# Movie App
+# Movie Star
 
 I created a Movie App using html, css and javascript. This project is inspired by Brad Traversie's 50projects50days challenge. In this project I used fetch API to showcase movies on webpage!
 
